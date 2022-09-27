@@ -46,3 +46,20 @@ Data is directly taken from StackOverflow and licensed under the ODbL license.
 
 #### _Which is the most popular course among the developers?_
 - Most of the students undergad in Computer science or software engineering in both countries. In Brazil the second position is Computer programming or web development and computer engineering or electrical/electronics engineering appers on the third position.
+
+---
+## Conclusions
+
+- As showed in the representativity of each country, the tech market in Brazil is far away from the United States. It can be seen as a developing market with growing opportunities for Brazilian people, if we adopt the US market as a parameter.
+
+- The labor market in that field suggests that there are more opportunities for full-time jobs and consequently more opportunities to learn on the job in US than in Brazil.
+
+- Both in Brazil and in the US the developers search for knowleg by themselves. However, online course, part-time/evening course and industry certification are more representative in Brazil.
+
+- The Programming Years present the same tendency. With the increas of years programming, the number of workers decrease, but the US is absolutely more experienced when we talk about people with 20 or more years programming
+
+- The Developer Types presents the same tendency in both countries. As the world goes tech, the demands for each developer type gets similar according to the data. The most prominent type was Web developer.
+
+- The Formal Education shows that both nationalities have a Bachelor’s degree and Some college/university study without earning a bachelor’s degree as first and second positions respectively. However, the proportion of people with Secondary school is significantly larger in Brazil than in the US.
+
+- The tech-related majors seem to be more concentrated in Brazil than in the US, except for Computer science or software, that appears in the first position for both contries.

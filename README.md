@@ -40,3 +40,9 @@ Data is directly taken from StackOverflow and licensed under the ODbL license.
 
 #### _Which developer type is more representative in each country?_ 
 - The main tree Developer Types in both countries are Web developer, Desktop applications developer and Mobile developer. The Second and third positions in Brazil has almost the same level, while in United States the difference between these two positions is more evident.
+
+#### _Is there huge differences about formal education among the countries?_
+- Most developers in both countries has Bachelor's degree, however in United States it is almost 50%, while in Brazil it is near to 44%. The main difference is in third and fourth position. The US 16,7% has Master's degree and 6,7% Secondary school. In Brazil 16,9% has Secondary school and 12,1% Master's degree.
+
+#### _Which is the most popular course among the developers?_
+- Most of the students undergad in Computer science or software engineering in both countries. In Brazil the second position is Computer programming or web development and computer engineering or electrical/electronics engineering appers on the third position.

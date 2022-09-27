@@ -13,6 +13,8 @@ import matplotlib.pyplot as plt
 ---
 ### Files:
 The data used in this study can be downloaded from:https: //www.kaggle.com/datasets/stackoverflow/so-survey-2017
+The survey_results_public.csv contains the results 
+The survey_results_schema.csv contains the categories present in the survey
 
 Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style and various other information. This year, they amassed more than 64,000 responses fielded from 213 countries.
 
